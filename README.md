@@ -72,25 +72,6 @@ Analyzed sales over time to identify seasonal patterns and sales trends.
 
 ---
 
-## Project Structure
-
-sales-data-analysis
-│
-├── data
-│   └── sales_data_sample.csv
-
-├── notebooks
-│   └── Sales Data Analysis.ipynb
-
-├── sql
-│   └── Sales project.sql
-
-├── report
-│   └── Sales_Analysis_Report.pdf
-
-└── README.md
-
----
 
 
 

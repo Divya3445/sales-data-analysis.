@@ -2,8 +2,6 @@
 Sales data analysis using SQL and Python
 
 
-# Sales Data Analysis 
-
 ## Project Overview
 
 This project analyzes retail sales data to identify important business insights such as regional sales performance, profitable product categories, and sales trends over time.

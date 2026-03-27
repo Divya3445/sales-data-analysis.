@@ -2,7 +2,7 @@
 Sales data analysis using SQL and Python
 
 
-# Sales Data Analysis 📊
+# Sales Data Analysis 
 
 ## Project Overview
 
